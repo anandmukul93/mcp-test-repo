@@ -7,3 +7,7 @@ def add(a, b):
 
 if __name__ == "__main__":
     print(greet("MCP"))
+
+def subtract(a, b):
+    """Return a - b."""
+    return a - b
